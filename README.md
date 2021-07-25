@@ -15,7 +15,7 @@ Precision Machine Oil: 60/28/11
 Health Tonic: 30/26/13  
 Stamina Potion: 60/27/18  
 
-Chapter 2
+Chapter 2  
 Hair Product: 30/50/8  
 Rocket Propellant: 40/33/11  
 Mist of Incapacitation: 65/26/12  
