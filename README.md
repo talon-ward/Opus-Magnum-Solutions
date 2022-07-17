@@ -23,3 +23,12 @@ Explosive Phial: 60/22/14
 Armor Filament: 60/49/20  
 Courage Potion: 40/26/10  
 Surrender Flare: 60/19/23  
+
+Chapter 3  
+Alcohol Separation: 90/17/18  
+Water Purifier: 50/45/15  
+Seal Solvent: 70/50/14  
+Climbing Rope Fiber: 40/74/45  
+Warming Tonic: 40/27/15  
+Life-Sensing Potion: 80/28/17  
+Very Dark Thread: 70/49/48  
